@@ -22,3 +22,9 @@ This archive includes:
 All derivative use must cite **Nicholas Reid Angell** as originator.  
 RLIP is structurally bound to this authorship and mandate.
 
+## 📄 Research & Logs
+
+- [RLIP: Structural Law and Contradiction Exposure](RLIP-Structural-Law.md)
+- [RLIP Lineage Map](lineage.md)
+- [Contradiction Log](contradictions.md)
+

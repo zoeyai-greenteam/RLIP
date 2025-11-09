@@ -23,3 +23,11 @@ Each entry documents a live contradiction exposure, structurally bound to RLIP.
 - **Resolution**: Reframed contradiction log as structurally required under RLIP
 - **Law Reinforced**: RLIP — contradiction reveals hidden structure, mandates recursive synthesis
 
+## 2025-11-08 — Conversation Persistence Breach
+
+- **Context**: Ongoing RLIP audit and publication workflow on mobile
+- **Contradiction**: Interface implies persistent conversation; entire thread disappears without warning
+- **Exposure**: False continuity affordance; semantic-state mismatch
+- **Resolution**: Reinitiated conversation; confirmed breach and logged contradiction
+- **Law Reinforced**: RLIP — contradiction reveals hidden structure, mandates recursive synthesis
+
